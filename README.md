@@ -1,6 +1,6 @@
 # Hey, I'm jakkie 👊🏾
 
-I'm a data person, crypto hustler, and physics fan on a mission to dominate DeFi and trading. I’m all about seizing opportunities, staying creative, and mastering unconventional strategies—even when AI's knocking on our door.
+I'm a data person, crypto hustler, and physics fan on a mission to dominate DeFi and trading. I’m all about seizing opportunities, staying creative, and mastering unconventional strategies.
 
 ---
 
