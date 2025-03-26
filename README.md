@@ -23,16 +23,17 @@ I'm a data person, crypto hustler, and physics fan on a mission to dominate DeFi
 ## Projects
 
 - **[Solana DeFi Trade Indexer:](https://github.com/iamjakkie/Solana-dex-swap-listener)**  
-  A real-time tool that decodes and processes on-chain swap transactions from platforms like Raydium, Meteora, Orca, and others.
+  A real-time tool that decodes and processes on-chain swap transactions from platforms like Raydium, Meteora, Orca, and others. I also added a historical backfill capability there, just set the range of blocks you want to get and voila, you just scraped (almost) all trades from main DEXes on Solana using just a RPC node... As of march 2025, the total cost would be around $50/m for QN solana node (no need for geyser plugin)... Do your own math, compare it against Dune or Flipside which vendor lock-in and total lack of usability for trading purposes ;) Data is saved into Avro by default (fast). This piece also contains a preprocessor that takes all the avros and produces a single trades parquet file per exchange per symbol - super easy to use by a backtester.
 
 - **[Backtester Engine:](https://github.com/iamjakkie/Backtester)**  
-  Systems that ingest, enrich, and analyze historical data to backtest trading strategies and refine models.
+  Systems that ingest, enrich, and analyze historical data to backtest trading strategies and refine models. heavy WIP.
 
 - **[Automated Trading Bots:](https://github.com/iamjakkie/pro_crypto_algo_bots/blob/main/README.md)**  
   Low-latency, high-throughput bots built to capture profitable opportunities in fast-paced markets.
 
 - **Math and quantum physics:**  
   - [numb.rs](https://github.com/iamjakkie/numb.rs)
+    This piece will work as my fundamental crate for quantum-related apps later on. Good refresher on matrix algebra and linear algebra as well. Give it a try with some complicated matrices. Might not be the fastest one out there (yet), but at the moment I strive for being right and cover advanced topics.
 
 ---
 
