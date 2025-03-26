@@ -10,7 +10,7 @@ I'm a data person, crypto hustler, and physics fan on a mission to dominate DeFi
   I design and build low-latency crypto trading infrastructure and develop automated trading bots. My work focuses on processing vast amounts of blockchain data in real time, ensuring ultra-fast trade execution and robust trading strategies.
 
 - **Crypto Trading & DeFi:**  
-  I break down on-chain data from DEXes, AMMs, and various crypto protocols, transforming raw blockchain information into actionable insights. I'm constantly iterating on innovative trading strategies and envision launching my own crypto hedge fund.
+  I break down on-chain data from DEXes, AMMs, and various crypto protocols, transforming raw blockchain information into actionable insights. I'm constantly iterating on innovative trading strategies.
 
 - **Data & Physics:**  
   Merging data science with a passion for physics (think entropy and econophysics), I uncover patterns and insights that help inform smarter trading decisions.
